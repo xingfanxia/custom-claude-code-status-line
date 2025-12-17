@@ -32,7 +32,7 @@ A custom status line for [Claude Code](https://github.com/anthropics/claude-code
 Run the installation script:
 
 ```bash
-git clone <your-repo-url> custom-claude-code-status-line
+git clone https://github.com/xingfanxia/custom-claude-code-status-line.git
 cd custom-claude-code-status-line
 ./install.sh
 ```
